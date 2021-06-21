@@ -21,3 +21,4 @@
 http://113.31.126.150:8080/
 
 ### 流程图
+![image](https://github.com/Xgomoku/Bamboo/blob/main/images/img.svg)
