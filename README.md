@@ -16,9 +16,6 @@
 ### 解析存储
 支持xpath/jsonpath抽取规则，可抽列表或单页，自动入库。
 
-### 在线演示
-http://113.31.126.150:8080/
-
 ### 流程图
 ![image](https://github.com/Xgomoku/Bamboo/blob/main/images/img.svg)
 
