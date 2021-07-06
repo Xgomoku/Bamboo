@@ -21,3 +21,13 @@ http://113.31.126.150:8080/
 
 ### 流程图
 ![image](https://github.com/Xgomoku/Bamboo/blob/main/images/img.svg)
+
+### 基本功能
+## 添加数据源
+![image](https://github.com/Xgomoku/Bamboo/blob/main/images/seeds.gif)
+
+## 添加解析规则
+![image](https://github.com/Xgomoku/Bamboo/blob/main/images/rule.gif)
+
+## 查看采集结果
+![image](https://github.com/Xgomoku/Bamboo/blob/main/images/news.gif)
